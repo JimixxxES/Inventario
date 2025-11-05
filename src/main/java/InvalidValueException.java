@@ -4,3 +4,4 @@ public class InvalidValueException extends CustomException {
         super("Valor inválido para '" + fieldName + "'. Se esperaba: " + expected);
     }
 }
+//:)

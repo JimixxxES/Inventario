@@ -4,3 +4,4 @@ public class NullOrEmptyException extends CustomException {
         super("El campo '" + fieldName + "' no puede estar vacío o ser nulo");
     }
 }
+//:)

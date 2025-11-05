@@ -4,3 +4,4 @@ public class NegativeNumberException extends CustomException {
         super("El campo '" + fieldName + "' no puede ser negativo");
     }
 }
+//:)
